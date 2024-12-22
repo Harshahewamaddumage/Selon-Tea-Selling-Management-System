@@ -12,7 +12,7 @@
 </head>
 <body>
     @include('layout.navigation')
-    <h1>Celon Tea</h1>
+    @include('layout.grid')
     @include('layout.fotter')
 
 
